@@ -1,0 +1,12 @@
+config/site.php
+files/cache/*
+files/tmp/*
+
+# ignore system files
+.DS_Store
+thumbs.db
+__MACOSX
+._*
+
+# PHPStorm
+.idea
